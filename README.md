@@ -2,7 +2,7 @@
 
   <!-- Animated Coding Room -->
   <img
-    src="https://raw.githubusercontent.com/AARADHYA944/AARADHYA944/main/coding-room.gif"
+    src=""
     width="100%"
     alt="My animated coding room"
   />

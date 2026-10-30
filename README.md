@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/coding-room.gif" width="100%" alt="My animated coding room">
+<img src="./coding-room.gif" width="100%" alt="My animated coding room">
 
 <h1>Hey, I'm Aaradhya! 👋</h1>
 

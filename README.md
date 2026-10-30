@@ -1,9 +1,13 @@
 <div align="center">
 
-  <!-- Animated coding room -->
-  <img src="./coding-room.gif" width="100%" alt="My animated coding room">
+  <!-- Animated Coding Room -->
+  <img
+    src="https://raw.githubusercontent.com/AARADHYA944/AARADHYA944/main/coding-room.gif"
+    width="100%"
+    alt="My animated coding room"
+  />
 
-  <br>
+  <br><br>
 
   <h1>Hey, I'm Aaradhya! 👋</h1>
 
@@ -43,7 +47,10 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,sql,git,github,vscode" alt="Tech stack">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,python,sql,git,github,vscode"
+    alt="Tech Stack"
+  />
 
 </div>
 
@@ -51,35 +58,27 @@
 
 ## 🚀 Projects
 
-- **Warehouse Management System (WMS)**  
-  Working with warehouse workflows, application testing, database validation, and hardware integration.
+**Warehouse Management System (WMS)**
 
-- **HMI Report Viewer**  
-  Exploring ways to convert CSV reports into HTML-based reports.
+Working with warehouse workflows, application testing, database validation, and hardware integration.
 
-- **Hand Gesture Puzzle**  
-  Experimenting with hand gestures and interactive image puzzles.
+**HMI Report Viewer**
 
----
+Exploring ways to convert CSV reports into HTML-based reports.
 
-## 📊 GitHub Stats
+**Hand Gesture Puzzle**
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=AARADHYA944&show_icons=true&theme=tokyonight" height="160" alt="GitHub stats">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AARADHYA944&layout=compact&theme=tokyonight" height="160" alt="Top languages">
-
-</div>
+Experimenting with hand gestures and interactive image puzzles.
 
 ---
-
-## 🌐 Connect With Me
 
 <div align="center">
 
   <a href="https://github.com/AARADHYA944">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 
   <br><br>

@@ -6,6 +6,7 @@
     width="100%"
     alt="My animated coding room"
   />
+  
 
   <br><br>
 

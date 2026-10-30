@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Animated Coding Room -->
-  <img
-    src=""
-    width="100%"
-    alt="My animated coding room"
-  />
+ <img
+  src="https://raw.githubusercontent.com/AARADHYA944/AARADHYA944/main/coding-room.gif"
+  width="100%"
+  alt="My animated coding room"
+/>
   
 
   <br><br>

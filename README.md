@@ -27,7 +27,7 @@ By night I make pixel art, play with cameras, and build random things just to se
 ```python
 class Aaradhya:
     role     = ["Developer", "Tester", "Creative Tech Enthusiast"]
-    works_on = ["Industrial automation", "MES / WMS / CMS", "HMI + PLC scripting"]
+    works_on = ["Industrial automation", "MES / WMS / CMS", "HMI"]
     loves    = ["Hardware + software", "Pixel art", "Photography", "Shipping small experiments"]
     status   = "Always experimenting with something new ✨"
 ```
@@ -50,7 +50,7 @@ class Aaradhya:
 
 | 🧠 Languages | 🎨 Frontend | 🗄️ Data | 🏭 Industrial |
 |---|---|---|---|
-| Python, JavaScript, SQL | React, HTML, CSS | SQL Server, MySQL, PostgreSQL | WinCC, TIA Portal, PLC, RS232, TCP/IP |
+| Python, JavaScript, SQL | React, HTML, CSS | SQL Server, MySQL, PostgreSQL | 
 
 ---
 
@@ -116,7 +116,6 @@ Fingerprint-based Windows authentication integrated with WinCC v8.1, with an aud
 
 Industrial weighing indicators talking over TCP, saved into SQL Server, shown live in a table by balance ID.
 
-`RS232` `NPort` `Ethernet` `PLC` `SQL Server`
 
 </details>
 
@@ -130,7 +129,7 @@ Industrial weighing indicators talking over TCP, saved into SQL Server, shown li
 
 | | |
 |---|---|
-| 🔌 **ESP32 & embedded systems** | making tiny chips do big things |
+| 🔌 **Embedded systems** | making tiny chips do big things |
 | 🔗 **Hardware integration** | sensors, scales, readers, everything |
 | 🐍 **Python automation** | boring work, automated |
 | 🎨 **Creative frontend** | animations, games, fun UIs |

@@ -8,7 +8,9 @@
 
 <br>
 
-<img src="./Pixel%20Art%20Halloween%20Icons%20for%20Creative%20Projects.gif" width="130" alt="Pixel ghost">
+<img src="./Pixel%20Art%20Halloween%20Icons%20for%20Creative%20Projects.gif" width="120" alt="Pixel ghost">
+
+**`▶ PLAYER 1 READY  ·  SCROLL DOWN TO PLAY`**
 
 [![GitHub](https://img.shields.io/badge/GitHub-AARADHYA944-181717?style=for-the-badge&logo=github)](https://github.com/AARADHYA944)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
@@ -18,31 +20,44 @@
 
 ---
 
-## 👩‍💻 About Me
+## 🕹️ LEVEL 0: Player Select
 
-I'm a Computer Science graduate who builds software for **real machines on real factory floors**.
-By day I work on industrial automation: calibration systems, manufacturing software, warehouse flows.
-By night I make pixel art, play with cameras, and build random things just to see if they work.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Class:** Developer + Tester
+**Home world:** Hyderabad, India
+**Special move:** making software talk to real machines 🏭
+**Weakness:** a bug at 2am 🐛
+
+I'm a Computer Science graduate. By day I build software for **real machines on real factory floors**. By night I make pixel art, play with cameras, and build random things just to see if they work.
 
 ```python
 class Aaradhya:
-    role     = ["Developer", "Tester", "Creative Tech Enthusiast"]
     works_on = ["Industrial automation", "MES / WMS / CMS", "HMI"]
-    loves    = ["Hardware + software", "Pixel art", "Photography", "Shipping small experiments"]
-    status   = "Always experimenting with something new ✨"
+    loves    = ["Hardware + software", "Pixel art", "Photography"]
+    status   = "Always experimenting ✨"
 ```
 
-<div align="center">
-<img src="./cat-at-pc.gif" width="420" alt="Pixel cat coding at a computer">
+</td>
+<td width="50%" align="center">
+
+<img src="./cat-at-pc.gif" width="100%" alt="Pixel cat coding at a computer">
 <br>
 <sub>me, debugging at 2am 🐈‍⬛💻</sub>
-<br><br>
-<img src="./download.gif" width="190" alt="Pixel cat walking">
-</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🎒 INVENTORY
+
+<table>
+<tr>
+<td width="70%" valign="middle">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,html,css,flask,fastapi,postgres,mysql,git,github,vscode" />
@@ -52,16 +67,31 @@ class Aaradhya:
 |---|---|---|
 | Python, JavaScript, SQL | React, HTML, CSS | SQL Server, MySQL, PostgreSQL |
 
+</td>
+<td width="30%" align="center" valign="middle">
+
+<img src="./download.gif" width="170" alt="Pixel cat walking">
+<br>
+<sub>my sidekick, always walking with me 🐾</sub>
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🚀 Projects & Experience
+## ⚔️ BOSS LEVELS: Real Systems in Real Plants
 
-<img align="right" src="./Pixel%20Art%20Halloween%20Icons%20for%20Creative%20Projects.gif" width="110" alt="Pixel ghost">
+<div align="center">
+<img src="./bd21b382a6f6cffb863825c2cefc9006.gif" width="220" alt="Pixel fire warrior">
+<br>
+<sub>Each of these has a boss at the end: the bug nobody saw coming 🔥</sub>
+</div>
 
-> Real systems used in real plants. Tap a project to open it 👇
+<br>
 
 <details>
-<summary><b>🧪 01. CMS: Calibration Management System</b></summary>
+<summary><b>🧪 Boss 01 · CMS: Calibration Management System</b></summary>
 <br>
 
 Equipment calibration records, tracking and verification workflows.
@@ -71,7 +101,7 @@ Equipment calibration records, tracking and verification workflows.
 </details>
 
 <details>
-<summary><b>🏭 02. MES: Manufacturing Execution System</b></summary>
+<summary><b>🏭 Boss 02 · MES: Manufacturing Execution System</b></summary>
 <br>
 
 Manufacturing workflows, batch execution and eBR (electronic batch record) verification.
@@ -81,7 +111,7 @@ Manufacturing workflows, batch execution and eBR (electronic batch record) verif
 </details>
 
 <details>
-<summary><b>📦 03. WMS: Warehouse Management System</b></summary>
+<summary><b>📦 Boss 03 · WMS: Warehouse Management System</b></summary>
 <br>
 
 Inventory, dispensing, weighing equipment and barcode / label printer integration.
@@ -91,7 +121,7 @@ Inventory, dispensing, weighing equipment and barcode / label printer integratio
 </details>
 
 <details>
-<summary><b>🔧 04. PMMS: Preventive Maintenance Management System</b></summary>
+<summary><b>🔧 Boss 04 · PMMS: Preventive Maintenance Management System</b></summary>
 <br>
 
 Equipment maintenance workflows and functional testing.
@@ -101,7 +131,7 @@ Equipment maintenance workflows and functional testing.
 </details>
 
 <details>
-<summary><b>🔐 05. Fingerprint Authentication</b></summary>
+<summary><b>🔐 Boss 05 · Fingerprint Authentication</b></summary>
 <br>
 
 Fingerprint-based Windows authentication integrated with WinCC v8.1, with an audit trail.
@@ -111,20 +141,20 @@ Fingerprint-based Windows authentication integrated with WinCC v8.1, with an aud
 </details>
 
 <details>
-<summary><b>⚖️ 06. Weighing Scale Integration</b></summary>
+<summary><b>⚖️ Boss 06 · Weighing Scale Integration</b></summary>
 <br>
 
 Industrial weighing indicators talking over TCP, saved into SQL Server, shown live in a table by balance ID.
 
 </details>
 
-<div align="center">
-<img src="./pixel-art-sidekick.gif" width="170" alt="Pixel cat playing with a pokeball">
-</div>
-
 ---
 
-## 🌱 Currently Exploring
+## 🌱 SKILL TREE: Loading...
+
+<table>
+<tr>
+<td width="55%" valign="middle">
 
 | | |
 |---|---|
@@ -133,17 +163,28 @@ Industrial weighing indicators talking over TCP, saved into SQL Server, shown li
 | 🐍 **Python automation** | boring work, automated |
 | 🎨 **Creative frontend** | animations, games, fun UIs |
 
-<div align="center">
-<img src="./cc2c0bae7ddc00fe9164fe1ef968f99e.gif" width="300" alt="Pixel dino 404 page not found">
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="./cc2c0bae7ddc00fe9164fe1ef968f99e.gif" width="100%" alt="Pixel dino 404 page not found">
 <br>
-<sub>my free time: 404 not found 🦖</sub>
-</div>
+<sub>free time: 404 not found 🦖</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎮 Side Quests
+## 🎯 SIDE QUESTS
 
-> Not for work. Just for fun. These are the things I build when my brain says "what if...?" 💭
+<div align="center">
+<img src="./pixel-art-sidekick.gif" width="150" alt="Pixel cat playing with a pokeball">
+<br>
+<sub>gotta build 'em all ⚡</sub>
+</div>
+
+<br>
 
 <table>
 <tr>
@@ -180,28 +221,23 @@ A lucky **nimbu-mirchi charm** that dangles and swings on your screen, with real
 </tr>
 </table>
 
-<div align="center">
-<img src="./bd21b382a6f6cffb863825c2cefc9006.gif" width="230" alt="Pixel fire warrior">
-<br>
-<sub>me when the bug fights back 🔥⚔️</sub>
-</div>
-
 ---
 
+## 💾 SAVE POINT
+
 <div align="center">
 
-### 📸 Beyond the Code
-**Photography · Pixel Art · Design · Experiments**
+<img src="./ZZZZzzz.gif" width="160" alt="Sleepy pixel cat">
 
-<img src="./ZZZZzzz.gif" width="170" alt="Sleepy pixel cat">
-<br>
+**Beyond the code:** Photography · Pixel Art · Design · Experiments
+
 <sub>sleep.exe is loading... 😴</sub>
 
-<img src="./download.gif" width="150" alt="Pixel cat">
+<br><br>
 
-<img src="./f97c28db4370a48f2d921fafeb8cfab8.gif" width="230" alt="Pixel cat on a TV that says THE END">
+<img src="./f97c28db4370a48f2d921fafeb8cfab8.gif" width="220" alt="Pixel cat on a TV that says THE END">
 
-<sub>thanks for scrolling all the way down 💜</sub>
+### `GAME OVER?` Nah. Press **CONTINUE** 💜
 
 *Stay curious. Keep building.* 👻
 

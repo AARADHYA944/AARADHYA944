@@ -188,6 +188,4 @@ A lucky **nimbu-mirchi charm** that dangles and swings on your screen, with real
 
 *Stay curious. Keep building.* 👻
 
-<img src="./coding-room.gif" width="100%" alt="Pixel art ghost and cat in space">
-
 </div>

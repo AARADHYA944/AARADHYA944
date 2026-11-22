@@ -48,9 +48,9 @@ class Aaradhya:
   <img src="https://skillicons.dev/icons?i=python,js,react,html,css,flask,fastapi,postgres,mysql,git,github,vscode" />
 </p>
 
-| 🧠 Languages | 🎨 Frontend | 🗄️ Data | 🏭 Industrial |
-|---|---|---|---|
-| Python, JavaScript, SQL | React, HTML, CSS | SQL Server, MySQL, PostgreSQL | 
+| 🧠 Languages | 🎨 Frontend | 🗄️ Data |
+|---|---|---|
+| Python, JavaScript, SQL | React, HTML, CSS | SQL Server, MySQL, PostgreSQL |
 
 ---
 
@@ -116,7 +116,6 @@ Fingerprint-based Windows authentication integrated with WinCC v8.1, with an aud
 
 Industrial weighing indicators talking over TCP, saved into SQL Server, shown live in a table by balance ID.
 
-
 </details>
 
 <div align="center">
@@ -133,6 +132,12 @@ Industrial weighing indicators talking over TCP, saved into SQL Server, shown li
 | 🔗 **Hardware integration** | sensors, scales, readers, everything |
 | 🐍 **Python automation** | boring work, automated |
 | 🎨 **Creative frontend** | animations, games, fun UIs |
+
+<div align="center">
+<img src="./cc2c0bae7ddc00fe9164fe1ef968f99e.gif" width="300" alt="Pixel dino 404 page not found">
+<br>
+<sub>my free time: 404 not found 🦖</sub>
+</div>
 
 ---
 
@@ -175,6 +180,12 @@ A lucky **nimbu-mirchi charm** that dangles and swings on your screen, with real
 </tr>
 </table>
 
+<div align="center">
+<img src="./bd21b382a6f6cffb863825c2cefc9006.gif" width="230" alt="Pixel fire warrior">
+<br>
+<sub>me when the bug fights back 🔥⚔️</sub>
+</div>
+
 ---
 
 <div align="center">
@@ -182,9 +193,15 @@ A lucky **nimbu-mirchi charm** that dangles and swings on your screen, with real
 ### 📸 Beyond the Code
 **Photography · Pixel Art · Design · Experiments**
 
+<img src="./ZZZZzzz.gif" width="170" alt="Sleepy pixel cat">
+<br>
+<sub>sleep.exe is loading... 😴</sub>
+
 <img src="./download.gif" width="150" alt="Pixel cat">
 
-<img src="./cat-at-pc.gif" width="300" alt="Pixel cat at computer">
+<img src="./f97c28db4370a48f2d921fafeb8cfab8.gif" width="230" alt="Pixel cat on a TV that says THE END">
+
+<sub>thanks for scrolling all the way down 💜</sub>
 
 *Stay curious. Keep building.* 👻
 

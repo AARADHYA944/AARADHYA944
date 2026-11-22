@@ -83,9 +83,9 @@ class Aaradhya:
 ## ⚔️ BOSS LEVELS: Real Systems in Real Plants
 
 <div align="center">
-<img src="./bd21b382a6f6cffb863825c2cefc9006.gif" width="220" alt="Pixel fire warrior">
+<img src="./7175e5791837cba94af6fef03d8b74f3.gif" width="220" alt="Pixel rockstar playing guitar">
 <br>
-<sub>Each of these has a boss at the end: the bug nobody saw coming 🔥</sub>
+<sub>Every project had a boss at the end: the bug nobody saw coming. I beat them all and rocked it 🎸⭐</sub>
 </div>
 
 <br>

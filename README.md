@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/coding-room.gif" width="100%" alt="Pixel art ghost and cat in space">
+<img src="./coding-room.gif" width="100%" alt="Pixel art ghost and cat in space">
 
 # Hey, I'm Aaradhya 👋
 
@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="./assets/Pixel Art Halloween Icons for Creative Projects.gif" width="130" alt="Pixel ghost">
+<img src="./Pixel%20Art%20Halloween%20Icons%20for%20Creative%20Projects.gif" width="130" alt="Pixel ghost">
 
 [![GitHub](https://img.shields.io/badge/GitHub-AARADHYA944-181717?style=for-the-badge&logo=github)](https://github.com/AARADHYA944)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
@@ -33,7 +33,11 @@ class Aaradhya:
 ```
 
 <div align="center">
-<img src="./assets/download.gif" width="190" alt="Pixel cat walking">
+<img src="./cat-at-pc.gif" width="420" alt="Pixel cat coding at a computer">
+<br>
+<sub>me, debugging at 2am 🐈‍⬛💻</sub>
+<br><br>
+<img src="./download.gif" width="190" alt="Pixel cat walking">
 </div>
 
 ---
@@ -51,6 +55,8 @@ class Aaradhya:
 ---
 
 ## 🚀 Projects & Experience
+
+<img align="right" src="./Pixel%20Art%20Halloween%20Icons%20for%20Creative%20Projects.gif" width="110" alt="Pixel ghost">
 
 > Real systems used in real plants. Tap a project to open it 👇
 
@@ -115,7 +121,7 @@ Industrial weighing indicators talking over TCP, saved into SQL Server, shown li
 </details>
 
 <div align="center">
-<img src="./assets/pixel-art-sidekick.gif" width="170" alt="Pixel cat playing with a pokeball">
+<img src="./pixel-art-sidekick.gif" width="170" alt="Pixel cat playing with a pokeball">
 </div>
 
 ---
@@ -156,10 +162,12 @@ Industrial weighing indicators talking over TCP, saved into SQL Server, shown li
 ### 📸 Beyond the Code
 **Photography · Pixel Art · Design · Experiments**
 
-<img src="./assets/download.gif" width="150" alt="Pixel cat">
+<img src="./download.gif" width="150" alt="Pixel cat">
+
+<img src="./cat-at-pc.gif" width="300" alt="Pixel cat at computer">
 
 *Stay curious. Keep building.* 👻
 
-<img src="./assets/coding-room.gif" width="100%" alt="Pixel art ghost and cat in space">
+<img src="./coding-room.gif" width="100%" alt="Pixel art ghost and cat in space">
 
 </div>

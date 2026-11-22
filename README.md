@@ -139,21 +139,42 @@ Industrial weighing indicators talking over TCP, saved into SQL Server, shown li
 
 ## 🎮 Side Quests
 
-- 🖐️ **Snapshot Shuffle**: a puzzle game you control with hand gestures (MediaPipe)
-- ⏱️ **FocusFlow**: Chrome extension with a floating Pomodoro widget
-- 🧿 **Rakshak**: nimbu-mirchi lucky charm that dangles on your screen
-- 😤 **SaveMyJob.ai**: the Corporate Rage Translator
+> Not for work. Just for fun. These are the things I build when my brain says "what if...?" 💭
 
----
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## 📊 GitHub Stats
+### 🖐️ Snapshot Shuffle
+A puzzle game you play **with your hands**, no mouse and no keyboard. Your webcam sees your gestures and you move the pieces in the air.
 
-<div align="center">
+`MediaPipe Hands` `Webcam` `Game`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AARADHYA944&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AARADHYA944&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<sub>🪄 Feels like magic</sub>
 
-</div>
+</td>
+<td width="33%" valign="top">
+
+### ⏱️ FocusFlow
+A Chrome extension with a **floating Pomodoro timer** that stays on your screen, so you can focus without switching tabs.
+
+`Chrome Extension` `Pomodoro` `Productivity`
+
+<sub>🎯 Built to beat procrastination</sub>
+
+</td>
+<td width="33%" valign="top">
+
+### 🧿 Rakshak
+A lucky **nimbu-mirchi charm** that dangles and swings on your screen, with realistic 2D physics. It works as a Chrome extension and as a website.
+
+`Chrome Extension` `2D Physics` `Web`
+
+<sub>🍋🌶️ Nazar se bachao</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
